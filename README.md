@@ -7,12 +7,12 @@ first install the packages using npm install
 ```
 npm install
 ```
-I order to deploy your project to the /dist folder run:
+In order to deploy your project to the /dist folder run:
 ```
 npm run build
 ```
 
-I order to serve your project from your localhost run:
+In order to serve your project from your localhost run:
 ```
 npm run start
 ```
